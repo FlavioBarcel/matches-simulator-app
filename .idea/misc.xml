@@ -8,7 +8,9 @@
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2385" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2385" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_simulate.xml" value="0.136" />
+        <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_detail.xml" value="0.25" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/layout/math_item.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -17,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
