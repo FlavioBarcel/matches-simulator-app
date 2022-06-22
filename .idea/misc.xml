@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Pichau/StudioProjects/matches-simulator-app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Pichau/StudioProjects/matches-simulator-app/app/src/main/res/layout/math_item.xml" value="0.4" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2385" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2385" />
         <entry key="..\:/Users/flavio.barcelos/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_simulate.xml" value="0.136" />
